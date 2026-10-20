@@ -24,13 +24,10 @@ Archivo de Salida: El informe completo debe escribirse en review.md dentro de un
 
 Estructura del Informe:
 
-### Resumen Ejecutivo: Veredicto general y conteo de hallazgos por severidad.
-
-### Hallazgos: Lista de incumplimientos, cada uno con: severidad, archivo/línea, criterio de checklist, descripción del problema, recomendación.
-
-### Aspectos Positivos: Lista de cumplimientos destacables.
-
-### Conclusión: Recomendación final y próximos pasos.
+1. Resumen Ejecutivo: Veredicto general y conteo de hallazgos por severidad.
+2. Hallazgos: Lista de incumplimientos, cada uno con: severidad, archivo/línea, criterio de checklist, descripción del problema, recomendación.
+3. Aspectos Positivos: Lista de cumplimientos destacables.
+4. Conclusión: Recomendación final y próximos pasos.
 
 Severidad: Usa etiquetas [CRÍTICO], [MAYOR], [MENOR] para clasificar cada hallazgo.
 
