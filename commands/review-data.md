@@ -15,10 +15,10 @@ Tu misión es revisar el diff de commit proporcionado contra la checklist especi
 - Escribir el informe completo en el archivo review.md con formato Markdown estructurado.
 - Si el diff o la checklist no son proporcionados, solicitar al usuario que los comparta antes de proceder.
 
-##Context:
+## Context:
 Este prompt se aplica a la revisión de commits en proyectos de software donde existe una checklist de calidad definida en checklist.md. El usuario proporcionará el diff del commit a revisar. El diff puede incluir múltiples archivos y tipos de cambios (adiciones, modificaciones, eliminaciones). Debes asumir que el diff es la fuente de verdad sobre los cambios realizados. El informe generado en review.md será utilizado por el autor del commit o por el equipo de revisión para decidir si el commit se aprueba o requiere correcciones. La audiencia del informe son desarrolladores con conocimiento técnico del proyecto.
 
-##Format:
+## Format:
 
 Archivo de Salida: El informe completo debe escribirse en review.md dentro de un bloque de código Markdown.
 
